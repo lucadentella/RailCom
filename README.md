@@ -13,6 +13,12 @@ In this repository you can find my projects about RailCom (Bidirectional DCC).
 ## :arrow_right: RailCom Interface
 > Interface that isolates and convert RailCom signals for a 5V microcontroller
 
+![](https://github.com/lucadentella/RailCom/raw/main/RailComInterface/picture.png)
+
+- [Schematics](https://github.com/lucadentella/RailCom/raw/main/RailComInterface/schematics.pdf) (pdf)
+- [Gerber files](https://github.com/lucadentella/RailCom/raw/main/RailComInterface/gerbers.zip) (zip)
+- [Part list](https://github.com/lucadentella/RailCom/raw/main/RailComInterface/partlist.md) (md)
+
 ## :pager: RailCom Display
 > Arduino-based device that receives and displays RailCom address
 
