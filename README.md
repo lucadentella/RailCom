@@ -22,6 +22,13 @@ In this repository you can find my projects about RailCom (Bidirectional DCC).
 ## :pager: RailCom Display
 > Arduino-based device that receives and displays RailCom address
 
+![](https://github.com/lucadentella/RailCom/raw/main/RailComDisplay/picture.png)
+
+- [Schematics](https://github.com/lucadentella/RailCom/blob/main/RailComDisplay/schematics.pdf) (pdf)
+- [Gerber files](https://github.com/lucadentella/RailCom/raw/main/RailComDisplay/gerbers.zip) (zip)
+- [Part list](https://github.com/lucadentella/RailCom/blob/main/RailComDisplay/partlist.md) (md)
+- [firmware](https://github.com/lucadentella/RailCom/blob/main/RailComDisplay/partlist.md) (Arduino project)
+
 ## :computer: Paco's RailCom Display
 > Add-on to my RailCom interface based on [Paco's RailCom Display[(https://usuaris.tinet.cat/fmco/railcom_en.html)
 
